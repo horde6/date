@@ -46,3 +46,4 @@ dependencies:
       horde/test: ^3
     ext:
       calendar: '*'
+vendor: horde6

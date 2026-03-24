@@ -1,5 +1,8 @@
 {
-    "name": "horde/date",
+    "name": "horde6/date",
+    "replace": {
+        "horde/date": "^3 || dev-FRAMEWORK_6_0"
+    },
     "description": "Date library",
     "type": "library",
     "homepage": "https://www.horde.org/libraries/Horde_Date",
